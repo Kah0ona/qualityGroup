@@ -1,0 +1,80 @@
+// *************************************
+//
+// Button
+// -> All buttons
+//
+// *************************************
+
+.button{
+  background: #012257;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  width: 100%;
+  padding:8% 0;
+  display: block;
+  border: 1px solid #012257;
+}
+  .button:hover{
+    text-decoration: none;
+    background: #c40000;;
+  }
+
+.Button {
+  display: inline-block;
+  font-weight: bold;
+  padding: rem(10px) rem(5px);
+  &:hover {
+    text-decoration: none;
+  }
+}
+.gform_button{
+  width: 30%;
+  padding:3%;
+  float: right;
+}
+
+// -------------------------------------
+// Module specific variables
+// -------------------------------------
+
+// -variable
+
+// -------------------------------------
+// Modifiers
+// -------------------------------------
+
+// ----- Default ----- //
+
+.Button--default {
+  color: $c-white;
+  fill: $c-white;
+}
+
+// ----- Brand ----- //
+
+.Button--brand {
+  color: $c-white;
+  fill: $c-white;
+  background: $c-blue;
+}
+
+// -------------------------------------
+// States
+// -------------------------------------
+
+// .is-module-state
+
+// -------------------------------------
+// Context
+// -------------------------------------
+
+// .has-module
+
+// -------------------------------------
+// Submodules
+// -------------------------------------
+
+// ----- Submodule ----- //
+
+// .Module-subModule

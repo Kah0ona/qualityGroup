@@ -1,0 +1,141 @@
+.Content {
+	h4{
+		color: #012257;
+	}
+	h6{
+		color: #012257;
+		margin:0 0 1% 0;
+	}
+}
+.Content-Top-Aside-Right{
+	background-color: #d6e5fd;
+	padding:2% 2% 3% 2%;
+	color:#012257;
+}
+.Content--home{
+	margin:2% 0 0 0;
+}
+.Content-Left-Logo{
+	width:100%;
+}
+.Slider{
+
+}
+.Content--leftsidebar{
+	background:#d6e5fd;
+	margin: 2% 2% 0 0;
+	padding:2% 2% 2% 2%;
+	h4{
+		margin:0 0 1% 0;
+	}
+}
+.Content--rightsidebar{
+	background:#d6e5fd;
+	margin: 2% 0 0 0;
+	padding:2% 2% 2% 2%;
+	h4{
+		margin:0 0 1% 0;
+	}
+}
+.Content-top-Left-h4-1{
+	margin:0 0 3% 0;
+	font-size:25px;
+}
+.Content-top-Left-h4-2{
+	margin:0;
+	font-size:25px;
+	border-bottom: 2px solid #012257;
+	padding: 0 0 3% 0;
+}
+.Content-top-Left-h4-3{
+	font-size:20px;
+	margin:2% 0 0 0 ;
+}
+.Content-Bottom{
+	margin: 0% 0 2% 0;
+}
+.Content-Bottom-Images{
+	position: relative;
+	background:#d6e5fd;
+	padding:2% 2% 1% 2%;
+	margin:7% 0 0 0;
+
+}
+.Content-Bottom-Images-Img{
+	width:100%;
+}
+.Content-Bottom-Title{
+	text-align:center;
+	color:#012257;
+	margin:0 0 2% 0;
+	font-size:20px;
+}
+
+.Content-Bottom-Images-Text{
+	position: absolute;
+	bottom:7%;
+	right:3%;
+	margin:0;
+	background-color:#fff;
+	padding:2%;
+	color:#012257;
+	opacity:0.7;
+}
+.contact-Wrapper{
+	background: #d6e5fd;
+	margin-top:1% ;
+	padding: 0 2% 2% 2%;
+}
+.IMG-diensten{
+	float:right;
+	margin:0 0 0 1%;
+}
+.landingsPage{
+	margin-top:2%;
+	h4{
+		margin:1% 0;
+	}
+}
+.landingsPage-Left{
+	background: #d6e5fd;
+	padding:0 2% 0 2%;
+}
+.landings-Right{
+	background: #d6e5fd;
+	padding:2% 2% 0 2%;
+	img{
+		width:70%;
+		margin:0 0 2%  10%;
+	}
+}
+@media all and (max-width: 320px) {
+	.IMG-diensten {
+		width:100%
+		}
+}
+@media all and (max-width: 875px) {
+	.Content {
+		h4{
+			font-size: 14px;
+		}
+	}
+	
+}
+.app-aside{
+	background:#d6e5fd;
+	margin: 2% 2% 2% 0;
+	padding:2%;
+	h4{
+		margin:0;
+	}
+}
+.Content-article{
+	background:#d6e5fd;
+	margin: 2% 2% 2% 0;
+	padding:2%;
+}
+.qr-code, .google-play{
+	width: 30%;		
+	display:block;
+	margin-top: 2%;
+}

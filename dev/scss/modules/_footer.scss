@@ -1,0 +1,53 @@
+.Footer {
+	background:rgba(230, 232, 234, 1);
+	margin:2% 0 0 0;
+}
+.Socket{
+	background:rgba(230, 232, 234, 1);
+	padding: 3% 0 3% 0 ;
+}
+.Socket2{
+	background: #012257;
+	text-align: center;
+	color: #fff;
+}
+.Footer-inner-Logo{
+	color: rgba(62, 62, 63, 1);
+}
+.Footer-Left-Logo{
+	width:100%;
+}
+// RESPONSIVE FOOTER
+.Footer-inner .widget {
+	@include span-columns(4);
+	@media screen and(max-width: 980px){
+		@include span-columns(12);
+	}
+}
+
+.Footer-inner {
+}
+.Footer-inner-Text{
+	h6{
+		border-bottom: 2px solid #012257  ;
+   		margin:0;
+    	padding: 0 3% 0 0 ; 
+    	color: #012257;
+	}
+	p{
+		color: rgba(62, 62, 63, 1);
+	}
+}
+.Footer-inner-Sitemap{
+	h6{
+		margin:0;
+		border-bottom: 2px solid #012257  ;
+		color: #012257;
+	}
+}
+
+//style the widgets
+.Footer-inner .widget {
+
+}
+
