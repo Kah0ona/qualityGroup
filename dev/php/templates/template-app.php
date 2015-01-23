@@ -20,7 +20,7 @@ Template Name: App page
 					Voor Apple iPhone gebruikers: scan de QR-code of surf naar de website. 
 
 					<a href="#">Download de app hier</a>
-					<img class="google-play" src="<?php echo get_stylesheet_directory_uri(); ?>/img/googleplay.jpg" />
+					<a href="https://play.google.com/store/apps/details?id=com.wqualitygroep"><img class="google-play" src="<?php echo get_stylesheet_directory_uri(); ?>/img/googleplay.jpg" /></a>
 					<img class="qr-code" src="<?php echo get_stylesheet_directory_uri(); ?>/img/quality_groep_qr_code.jpg" />
 					<?php edit_post_link('Edit this entry.', '<p>', '</p>'); ?>
 				</article>

@@ -21,8 +21,8 @@ Template Name: landingsPage
                         <img class="Header-Banner-Achtergrond"src="<?php echo get_stylesheet_directory_uri(); ?>/img/20452090-stroom-van-schoon-water-gieten-in-de-handen-van-kinderen.jpg" >
                         <img class="Header-Banner-Achtergrond"src="<?php echo get_stylesheet_directory_uri(); ?>/img/15304488-vrouw-doet-klusjes-in-de-badkamer-thuis-schoonmaken-spoelbak-en-kraan-met-spray-schoonmaakmiddel-cro.jpg" >
                     </div> 
-        		</article>
-        	</content>
+        		</article> 
+        	</content>  
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
 			<article class=" landingsPage">
@@ -31,7 +31,7 @@ Template Name: landingsPage
 						<h4><?php the_title(); ?></h4>
 						<div>
 							<?php the_content(); ?>
-							<?php edit_post_link('Edit this entry.', '<p>', '</p>'); ?>
+							<?php edit_post_link('Edit this entry.', '<p>', '</p>'); ?> 
 						</div>
 					</article>
 					<article class="u-gridCol4 landings-Right"> 
