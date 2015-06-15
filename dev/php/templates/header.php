@@ -48,7 +48,8 @@
             </div>
             <div class="Header-Banner-Right u-gridCol4">
                 <h6>Bel voor meer informatie</h6>
-                <h6><a url="0622185409">06-22 18 54 09</a></h6> 
+                <h6><a url="0622185409">06-22 18 54 09</a></h6>
+                <h6><a url="0302080482">030-20 80 482</a></h6>
             </div>
         </div> 
     </header>

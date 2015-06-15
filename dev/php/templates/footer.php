@@ -11,11 +11,13 @@
 		<div class="Footer-inner u-gridContainer u-gridRow">
 				<div class="Footer-inner-Logo u-gridCol4">
 					<img class="Footer-Left-Logo" src="<?php echo get_stylesheet_directory_uri(); ?>/img/Quality_Groep_logo-final.png"/>
-					<p>Fornheselaan 90, 3734GE Den Dolder</p>
+					<p>Fornheselaan 120A, 3734GE Den Dolder</p>
+					<p>Op deze locatie is nu een showroom! Ook zit hier nu een breng en ophaal service voor strijkwerk en kledingherstel! </p>
 				</div>
 				<div class="Footer-inner-Text u-gridCol4">
 					<h6>Contact &amp; informatie</h6>
-					<p>m: 06 22 18 54 09</p>
+					<p>mobiel: 06 22 18 54 09</p>
+					<p>vast: 030- 20 80 482</p>
 					<p>info@strijkenenschoonmaakservice.nl</p>
 					<p>KvK: 58841660</p>
 				</div>
