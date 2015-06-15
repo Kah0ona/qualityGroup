@@ -16,9 +16,10 @@
 				</div>
 				<div class="Footer-inner-Text u-gridCol4">
 					<h6>Contact &amp; informatie</h6>
-					<p>mobiel: 06 22 18 54 09</p>
-					<p>vast: 030- 20 80 482</p>
-					<p>info@strijkenenschoonmaakservice.nl</p>
+
+					<p>m: 06 22 18 54 09</p>
+					<p><a href="mailto:info@quality-groep.nl">info@quality-groep.nl</a></p>
+
 					<p>KvK: 58841660</p>
 				</div>
 				<div class="Footer-inner-Sitemap u-gridCol4">

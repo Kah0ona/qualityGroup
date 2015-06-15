@@ -19,7 +19,7 @@ Template Name: Contactpage
 								<p>Quality Groep B.V.</p>
 								<p>Fornheselaan 90</p>
 								<p>3734 GE Den Dolder</p>
-								<p>Email: info@strijkenenschoonmaakservice.nl</p>
+								<p>Email: <a href="mailto:info@quality-groep.nl">info@quality-groep.nl</a></p>
 								<p>Tel: 0622185409</p>
 							</div>
 	
